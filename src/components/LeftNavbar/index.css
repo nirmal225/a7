@@ -11,7 +11,9 @@
   .left-nav-app-container {
     display: flex;
     flex-direction: column;
-    width: 242px;
+    width: 30%;
+    min-width: 242px;
+    max-width: 245px;
     height: 91.2vh;
     border: 1px solid #000000;
   }
